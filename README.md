@@ -1,1 +1,5 @@
 # database_management_system
+
+Database management system is a system is a computer software program that is designed as the means of managing all databases that are currently installed on a system hard drive or network. Different types of database management systems exist, with some of them designed for the oversight and proper control of databases that are configured for specific purposes. Here are some examples of the various incarnations of DBMS technology that are currently in use, and some of the basic elements that are part of DBMS software applications.
+
+This project implements a database management system with multiples tables. Tables are created and managed by using various functions in this project. The records are inserted, deleted, updated into particular table. For each table creation a schema file and data file for that particular table will be created. A .data file was created to store all the tables that are created. The functions that are implemented in this project are creation of table, dropping a particular table, displaying all tables, displaying particular table, insertion of record, updating a record, deleting a record.
